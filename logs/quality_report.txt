@@ -1,0 +1,12 @@
+
+========================================
+        DATA QUALITY REPORT
+========================================
+Total Rows Extracted     : 1470
+Duplicate Rows Removed   : 0
+Null Values Found        : 0
+Total Rows Removed       : 0
+Clean Rows Remaining     : 1470
+Data Quality Score       : 100.0%
+========================================
+        
